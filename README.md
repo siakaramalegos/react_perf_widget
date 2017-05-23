@@ -1,5 +1,8 @@
 # react_perf_widget
 
+<img src="https://s3-us-west-2.amazonaws.com/sia-generic-bucket/perf.gif" alt="Perf widget in action screenshare" width="80%">
+
+
 The nice people at Facebook created a package called `react-addons-perf` that allows us to profile our development build to identify the worst performance offenders. To use it, install it first as a development dependency:
 
 ```language-bash
@@ -19,3 +22,4 @@ A good strategy is to focus more on `printWasted`, and use `printOperations` or 
 You can run the `Perf` functions from individual lines in your code, or you can use this nifty component which overlays the top right of your app, adapted from [this blog post](https://auth0.com/blog/optimizing-react/) by Alex Sears. Just remember to remove it when in production.
 
 And for the styling, add the CSS in **style.css** to your styles.
+
