@@ -2,6 +2,8 @@
 
 <img src="https://s3-us-west-2.amazonaws.com/sia-generic-bucket/perf.gif" alt="Perf widget in action screenshare" width="80%">
 
+<img src="https://s3.amazonaws.com/viking_education/web_development/web_app_eng/perf.gif" alt="Perf widget in action screenshare" width="80%">
+
 
 The nice people at Facebook created a package called `react-addons-perf` that allows us to profile our development build to identify the worst performance offenders. To use it, install it first as a development dependency:
 
