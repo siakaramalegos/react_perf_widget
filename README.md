@@ -1,6 +1,6 @@
 # react_perf_widget
 
-<img src="https://s3-us-west-2.amazonaws.com/sia-generic-bucket/perf.gif" alt="Perf widget in action screenshare" width="80%">
+<!-- <img src="https://s3-us-west-2.amazonaws.com/sia-generic-bucket/perf.gif" alt="Perf widget in action screenshare" width="80%"> -->
 
 <img src="https://s3.amazonaws.com/viking_education/web_development/web_app_eng/perf.gif" alt="Perf widget in action screenshare" width="80%">
 
