@@ -60,6 +60,8 @@ If you attended my talk, and want to find the slides, you can check them out [he
 - [Reselect npm package](https://github.com/reactjs/reselect), by the React Community 
 - [React/Redux Performance Tuning Tips](https://medium.com/@arikmaor/react-redux-performance-tuning-tips-cef1a6c50759) by Arik Maor
 
+## Contributing
+Think this widget could be better? Any of my links broken? Feel free to send a PR!
 
-
-
+## Social Media
+You can follow me on [Twitter](https://twitter.com/thegreengreek) and [Medium](https://medium.com/@thegreengreek)!
